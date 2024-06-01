@@ -1,0 +1,16 @@
+{
+  "name": "ether",
+  "version": "1.0.0",
+  "description": "",
+  "main": "account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.9.0",
+    "ethers": "^6.4.2"
+  }
+}
